@@ -1,0 +1,7 @@
+cloudy
+snowy
+rainy
+sunny
+dreary
+foggy
+humid 

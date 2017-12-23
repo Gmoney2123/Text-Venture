@@ -1,0 +1,2 @@
+#this file is for city descriptors, mainly things like who constructed it and with what materials
+#it's possible in the future things like path descriptors could be randomized as well to create unique layouts

@@ -1,0 +1,12 @@
+town
+city
+warren
+hamlet
+village
+den
+township
+burg
+port town
+port city
+outpost
+trading post
