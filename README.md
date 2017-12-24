@@ -1,4 +1,4 @@
-# Text-Venture
+# Text Adventure
 Just a little text adventure game I'm making, contributions are welcome!
 
 Code is in Python 3, and I'm just making the game as a kind of side project to help me learn.
