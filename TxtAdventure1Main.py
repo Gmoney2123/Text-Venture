@@ -68,7 +68,7 @@ gatekeeper_name_lst = open("Resources/characters/gatekeepers.txt").read().splitl
 gatekeeper_name = random.choice(gatekeeper_name_lst)
 
 # load the logo and display when called as a variable
-logo = open("Resources/logos/logo_main.txt").read()
+logo = open("Resources/logo_main.txt").read()
 
 # define other variables
 start_check = ""
