@@ -122,7 +122,7 @@ print(align_center("As you approach you see a gate keeper come out to meet you i
 
 
 print (align_center("Well met traveler! I am " + gatekeeper_name + ", I keep tabs on who comes and goes here."))
-time.sleep(2)
+time.sleep(3)
 while User.name == "":
     User.name = input("\n What is your name? (Enter name): ")
 
@@ -158,3 +158,6 @@ while User.gender == "":
         time.sleep(1)
         print("Oh? And what's a lady like yourself doin\' traveling alone?")
         break
+
+# From here on, the entirity of the story is going to be 'If' statements, being a girl will play out diffrently then being a guy.
+# This isn't sexism or anything... its just diffrent idk.
